@@ -155,7 +155,7 @@ input, select, textarea {
 		color: inherit;
 		text-decoration: none;
 	}
-
+	  
 		a:hover {
 			border-bottom-color: transparent;
 			color: #ffffff;
@@ -3253,7 +3253,7 @@ input, select, textarea {
 		.wrapper.style2-alt {
 			background-color: #3e4094;
 		}
-/* Original style3 color was b74e91 */
+/* Original style3 color was b74e91. Made it a darker shade by adding black. */
 		.wrapper.style3 {
 			background-color: #964277;
 		}
@@ -3906,3 +3906,4 @@ input, select, textarea {
 			}
 
 		}
+		  
